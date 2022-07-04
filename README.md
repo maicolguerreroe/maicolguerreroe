@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there 👋🏻,
 
-<!--
-**maicolguerreroe/maicolguerreroe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Front End developer
 
-Here are some ideas to get you started:
+I am a Ecuadorian programming enthusiast, with the spirit of sharing knowledge and collaborating on computational projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Get in touch
+
+- LinkedIn: [linkedin.com/in/maicolguerreroe](https://www.linkedin.com/in/maicolguerreroe/)
+- Instagram: [instagram.com/maicolguerreroe](https://www.instagram.com/maicolguerreroe/)
+- Facebook: [facebook.com/maicolguerreroe](https://www.facebook.com/maicolguerreroe)
+
+
+
+## &#x1f4c8; My GitHub Stats
+<a href="https://github.com/maicolguerreroe/maicolguerreroe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicolguerreroe&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+</a>
+
+<a href="https://github.com/maicolguerreroe/maicolguerreroe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maicolguerreroe&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="maicolguerreroe's GitHub Stats" />
+</a>
